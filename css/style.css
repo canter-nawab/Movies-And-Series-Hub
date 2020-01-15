@@ -145,3 +145,24 @@ padding: 30px;
     /* color:#9fa3b1; */
     color:#ecf0f1;
 }
+
+#hub img, #movie img{
+    width:100%;
+}
+@media(min-width:960px){
+#hub .col-md-3 .well{
+    height:390px;
+    background-color: #ecf0f1;
+}
+#hub .col-md-3 img{
+    height:240px;
+}
+}
+#hub .col-md-3{
+    padding-bottom: 15px;
+}
+#hub .col-md-3 .well{
+
+    /* background-color: #ecf0f1; */
+    padding-bottom: 15px;
+}
