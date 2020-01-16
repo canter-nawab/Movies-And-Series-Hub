@@ -1,22 +1,22 @@
 .jumbotron{
-     padding-bottom:20%;
-    /* flex-wrap:unset;
-    display:flex; */ 
+     /* padding-bottom:10%; */
+    /* flex-wrap:unset; */
+    /* display:flex;  */
     
     
 }
 .wrapper{
-    position:absolute;
+    /* position:absolute; */
     /* padding:0;
     margin:0; */
-    top:30%;
-    left:30%;
+    /* top:30%;
+    left:30%; */
 
 /*     
     transform:translate(-50%,-50%); */
 }
 .wrapper .search_box{
-    width:500px;
+    /* width:500px; */
     background:#fff;
     height:65px;
     border-radius:5px;
